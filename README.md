@@ -13,5 +13,5 @@ pipenv run dev
 ```
 
 ## API documentation
-http://127.0.0.1:8000/docs\
+http://127.0.0.1:8000/docs <br>
 http://127.0.0.1:8000/redoc
